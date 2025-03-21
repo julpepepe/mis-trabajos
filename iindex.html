@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table, td{
+            border: 1px solid red;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="2">
+                <table>
+            <td>
+                <table>
+            <td>
+                <img src="imagen33.webp" style="width: 100px;"
+            </td>
+            <td>
+                pasteles sas
+            </td>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <td>
+                        pastel 1
+                    </td>
+                    <td>pastel 2</td>
+                    <td>pastel 3</td>
+                    <td>pastel 4</td>
+                    <td>pastel 5</td>
+                </table>
+            </td>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                    <td>
+                        <ol>
+                            <li>carne</li>
+                        </ol>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <ol start="2">
+                            <li>pollo</li>
+                        </ol>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ol start="3">
+                                <li>mixto</li>
+                            </ol>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ol start="4">
+                                <li>cubano</li>
+                            </ol>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>sabrosos</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>ricos</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>sabrosos</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+           
+            <td>
+                <table>
+                    
+                        <td>
+                <img src="imagenpastel1.avif"style width="303px" height="170px">
+                        </td>
+                    </td>
+
+                <table>
+                    <td>
+                        <strong>premios</strong>
+                    </td>
+            </td>
+            <tr>
+            <td>
+                <table>
+                    <td colspan="3">A NIVEL</td>
+
+            </td>
+            </tr>
+            <tr>
+                <td>
+                <table>
+                <td>nacional</td>
+                <tr>
+                    <td>santander</td>
+                </tr>
+                <tr>
+                    <td>bogota</td>
+                </tr>
+                <tr>
+                    <td>cali</td>
+                </tr>
+                </table>
+                </td>
+                <td>
+                    <table>
+                        <td>internacional</td>
+                        <tr>
+                            <td>colombia</td>
+                        </tr>
+                        <tr>
+                            <td>españa</td>
+                        </tr>
+                        <tr>
+                            <td> francia</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <td>intercontinental</td>
+                        <tr>
+                            <td>america</td>
+                        </tr>
+                        <tr>
+                            <td>asia</td>
+                        </tr>
+                        <tr>
+                            <td>africa</td>
+                        </tr>
+                    </table>
+                </td>
+                <table>
+                    
+                        <td>
+                <img src="imagen22.webp"style width="265px">
+                        </td>
+                    </td>
+                    <tr>
+                    <td>
+                        <video src="C:\Users\ASUS\Downloads\EMPANADA RELLENA DE CARNE.mp4"controls width="300"
+                        height="200">como los preparamos</video>
+                    </td>
+                    </tr>
+                
+                    
+            </tr>
+        </table>
+        <tr>
+            <td>
+                
+                   <a href="https://empanadas.com.co/">nuestro sitio oficial</a>
+            </td>
+        </tr>
+        </table>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <table>
+                    <td>
+                        <dt>
+                            <li>pasteles</li>
+                            <li>grandes</li>
+                            <li>pequeños</li>
+                        </dt>
+                    </td>
+                    <td>
+                        <dt>
+                            <li>ricos</li>
+                            <li>deliciosos</li>
+                            <li>encantadores</li>
+                        </dt>
+                    </td>
+                    <td>
+                        <table>
+                            <td>xxxx</td>
+                            <td>xxxx</td>
+                            <td>xxxx</td>
+                        </table>
+                    </td>
+                    <td>
+                        <img src="omagen.jpg" style="width: 70px;">
+                    </td>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
